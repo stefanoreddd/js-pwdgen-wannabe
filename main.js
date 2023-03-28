@@ -27,6 +27,6 @@ let passwordWannabe = `
 ${nome+cognome+colore+numeropassword}
 `
 
-console.log(passwordWannabe)
+console.log(passwordWannabeLog)
 
 document.getElementById("password-generator").innerHTML = passwordWannabe;
